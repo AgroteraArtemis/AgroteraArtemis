@@ -9,13 +9,11 @@
 
 
 
-- 🌱 I’m currently learning at **Masai School**
-
 <!--  - 👨‍💻 Resume & All of my projects are available at  <a href="https://bright-melba-7b0c28.netlify.app/">Click Me</a>   -->
 
-- 📫 How to reach me **beingashmit@gmail.com**
+- 📫 How to reach me **agroteraartemis68@gmail.com**
 
-- ⚡ "If you don’t risk anything, you risk even more".**
+- ⚡ "If you don’t risk anything, you risk even more".
 
 
 
