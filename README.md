@@ -62,12 +62,7 @@
      <br />
      <br />
    <hr/>
-## Current Stats:
- 
- ![](https://github-readme-stats.vercel.app/api?username=ashmit-1131&theme=radical&hide_border=false&include_all_commits=true&count_private=true) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ashmit-1131&theme=radical&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/username=ashmit-1131&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashmit-1131&theme=radical)
+
   
    <code>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
