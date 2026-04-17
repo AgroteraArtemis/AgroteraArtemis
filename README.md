@@ -18,23 +18,7 @@
 
 
 <!-- Adding Social Buttons -->
-<div id="badges" align="center">
- 
- <a href="https://drive.google.com/file/d/1giMIqhzTMpIwHhyw1a8erKHpxeRfOuZr/view?usp=share_link">
-    <img src="https://img.shields.io/badge/My Resume-blueviolet?style=for-the-badge&logo=inbox&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/ashmit-yadav-588192228/">
-    <img src="https://img.shields.io/badge/Ashmit Yadav-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- <a href="https://ashmit-1131.github.io/">
-    <img src="https://img.shields.io/badge/My Portfolio-brightgreen?style=for-the-badge&logoColor=red" alt="Youtube Badge"/>
-  </a>
-  <a href="mailto:beingashmit@gmail.com">
-    <img src="https://img.shields.io/badge/Ashmit Yadav-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
- 
-</div>
+
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=ashmit-1131&label=Profile%20views&color=0e75b6&style=flat" alt="ashmit-yadav" /> </div>
 <h1></h1>
 
