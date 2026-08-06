@@ -1,8 +1,8 @@
  
 
-<h1 align="center">Hi 👋, I'm Ashmit Yadav</h1>
+<h1 align="center">Hi 👋, I'm Max Allen</h1>
 <h3 align="center">A passionate 
-  Full stack web developer 🖥</h3>
+  Full stack developer 🖥</h3>
 
 <p><img align="center" src="http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif" /></p>
 
@@ -11,7 +11,7 @@
 
 <!--  - 👨‍💻 Resume & All of my projects are available at  <a href="https://bright-melba-7b0c28.netlify.app/">Click Me</a>   -->
 
-- 📫 How to reach me **agroteraartemis68@gmail.com**
+- 📫 How to reach me **maxallen03919@gmail.com**
 
 - ⚡ "If you don’t risk anything, you risk even more".
 
